@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223536516799",
+    "project_id": "re-task-6b810",
+    "storage_bucket": "re-task-6b810.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223536516799:android:f97a6702685df7e3e5000a",
+        "android_client_info": {
+          "package_name": "com.example.remember_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfzgz7WGHmoaeZRo9eguZPQ0QHcP4JKXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
